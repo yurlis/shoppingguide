@@ -1,0 +1,1 @@
+INSERT INTO `shop` (`id`, `name`, `address`) VALUES (NULL, 'Metro', 'ул. Правды, д. 47');

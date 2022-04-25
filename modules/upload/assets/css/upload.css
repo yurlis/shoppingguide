@@ -1,0 +1,15 @@
+#wrapper{
+  width: 60%;
+  margin: 20px auto;
+}
+form button{
+  margin-bottom: 50px;
+}
+input[type=text],
+input[type=file]{
+  margin-bottom: 20px;
+}
+ 
+#process {
+  display: none;
+}
