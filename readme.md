@@ -31,8 +31,10 @@ This project is part of a training of skills in the course of study. In it I pas
 
 ## This project used:
 
-HTML, CSS, JavaScript, Ajax, JSON, Sql
+HTML, CSS, JavaScript, PHP, Ajax, JSON, Sql
 
 ## Another similar project
+
+### Garden Helper
 
 <h2 align="center"><a  href="https://github.com/yurlis/gardenhelper">Go to project on GitHub</a></h2>
