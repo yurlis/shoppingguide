@@ -19,18 +19,19 @@ This project is part of a training of skills in the course of study. In it I pas
 
 	$sql="SELECT product.name, main.price, measure.unit, main.quantity, shop.name AS shop_name, measure.name AS measure_name, shop.address, picture.name AS picture_name, (1 / main.quantity * main.price / measure.normalize_unit) AS normalize_price FROM main inner join product on main.product_id = product.id inner join picture on product.picture_id = picture.id inner join measure on product.measure_id = measure.id inner join shop on main.shop_id = shop.id WHERE product.name LIKE '%" . $_GET["text"] . "%' ORDER BY normalize_price ASC";  
 
-### DATABASE 	
+### The structure of the database has been developed
 <p align="center"><img  src="./readme_assets/db.png" width="100%"></p>
 
-### DATABASE 	
+### The project is based on Ajax queries and data processing in JSON format
 <p align="center"><img  src="./readme_assets/screen2.jpg" width="70%"></p>
+<p align="center"><img  src="./readme_assets/screen4.jpg" width="70%"></p>
 
-### DATABASE 	
+### Implemented uploading user images to the site	
 <p align="center"><img  src="./readme_assets/screen3.jpg" width="70%"></p>
 
 ## This project used:
 
-HTML, CSS, JAVA, Ajax, JSON, Sql
+HTML, CSS, JavaScript, Ajax, JSON, Sql
 
 ## Another similar project
 
