@@ -37,4 +37,4 @@ HTML, CSS, JavaScript, PHP, Ajax, JSON, Sql
 
 ### Garden Helper
 
-<h2 align="center"><a  href="https://github.com/yurlis/gardenhelper">Go to project on GitHub</a></h2>
+<h3 align="center"><a  href="https://github.com/yurlis/gardenhelper">Go to GardenHelper project on GitHub</a></h3>
