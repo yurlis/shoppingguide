@@ -2,7 +2,7 @@
 
 <!-- <img src="./readme_assets/h2.png" width="100%"> -->
 
-<h2 align="center"><a  href="http://yurylisovsky.colocall.com/portfolio/shoppingguide/">Go to project</a></h2>
+<h2 align="center"><a  href="http://yurylisovsky.colocall.com/portfolio/shoppingguide/">Watch project</a></h2>
 
 ## Description
 
@@ -23,11 +23,11 @@ This project is part of a training of skills in the course of study. In it I pas
 <p align="center"><img  src="./readme_assets/db.png" width="100%"></p>
 
 ### The project is based on Ajax queries and data processing in JSON format
-<p align="center"><img  src="./readme_assets/screen2.jpg" width="70%"></p>
-<p align="center"><img  src="./readme_assets/screen4.jpg" width="70%"></p>
+<p align="center"><img  src="./readme_assets/screen2.jpg" width="100%"></p>
+<p align="center"><img  src="./readme_assets/screen4.jpg" width="100%"></p>
 
 ### Implemented uploading user images to the site	
-<p align="center"><img  src="./readme_assets/screen3.jpg" width="70%"></p>
+<p align="center"><img  src="./readme_assets/screen3.jpg" width="100%"></p>
 
 ## This project used:
 
